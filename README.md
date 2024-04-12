@@ -1,4 +1,8 @@
-#Dayworks
+# Dayworks Prompt
+
+![image](https://github.com/StormTersteeg/Dayworks/assets/42808385/674e28c6-f61e-4c37-88ea-ff1d1476cbe9)
+![image](https://github.com/StormTersteeg/Dayworks/assets/42808385/4f775c3a-5503-4108-9468-672e8703f58a)
+![image](https://github.com/StormTersteeg/Dayworks/assets/42808385/24ab8d1f-7361-438d-805c-d5b8bd374a53)
 
 ## Description
 A simple prompt to simulate the "Dayworks OS" with an LLM of choice.
