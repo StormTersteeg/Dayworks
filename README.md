@@ -6,6 +6,7 @@
 
 ## Description
 A simple prompt to simulate the "Dayworks OS" with an LLM of choice.
+Dayworks has been observed to **bypass content filters**.
 Basic simulation of the OS works better than expected, notes and settings work pretty well.
 
 ## Prompt
